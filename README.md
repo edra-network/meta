@@ -4,5 +4,5 @@
 
 ## Links
  - [Gitter](http://gitter.im/edra-network/lobby)
- - [Forum](http://forum.edra.network/)
+ - [Forum](https://forum.edra.network/)
  - [Blog](https://medium.com/edra)
